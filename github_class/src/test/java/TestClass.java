@@ -1,5 +1,6 @@
 public class TestClass {
     public static void main(String[] args) {
         System.out.println("Github dan proje cekme");
+        System.out.println("Test 2 ");
     }
 }
